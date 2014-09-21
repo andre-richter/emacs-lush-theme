@@ -1,13 +1,19 @@
 emacs-lush-theme
 ================
 
-A Dark Theme with strong colors for Emacs24 based on [JD Huntington's blackboard theme](http://blog.jdhuntington.com/2008/11/emacs-color-theme-blackboard.html)
+A dark theme with strong colors for Emacs24, based on [JD Huntington's blackboard theme](http://blog.jdhuntington.com/2008/11/emacs-color-theme-blackboard.html)
 
 ## Installation
 
-Put it in your Emacs load path, e.g. `~/.emacs.d/` and activate it via `M-x customize-themes`, or put the following in your Emacs configuration file:
+If you use [MELPA](http://melpa.milkbox.net), just do:
+<kbd>M-x package-install [RET] lush-theme [RET]</kbd>
 
-  (load-theme 'lush t)
+Otherwise, put `lush-theme.el` in your Emacs load path, e.g. `~/.emacs.d/`.
+You can apply the theme via <kbd>M-x customize-themes</kbd> or make it your default theme by adding the following to your Emacs configuration file:
+
+```el
+(load-theme 'lush t)
+```
 
 ## Screenshots
 

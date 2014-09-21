@@ -7,21 +7,34 @@
 ;; Keywords: theme, dark, strong colors
 ;;
 ;;; Commentary:
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Lush, A Dark Theme with strong colors for Emacs24
 ;;
-;; Lush (formerly Blackboard) Colour Theme for Emacs.
+;; Change History:
+;;   Andre Richter, 2014-09:
+;;     * Changed colors for personal taste
+;;     * Made Emacs24 out-of-the-box compatible
 ;;
-;; Defines a colour scheme resembling that of the original TextMate Blackboard colour theme.
-;; To use add the following to your .emacs file (requires the color-theme package):
 ;;
-;; MIT License Copyright (c) 2008 JD Huntington <jdhuntington at gmail dot com>
-;; Credits due to the excellent TextMate Blackboard theme
+;; This theme is based on JD Huntington's Blackboard theme.
+;; Following is the original info from the theme (with obsolete install instructions):
 ;;
-;; All patches welcome
+;;   Blackboard Colour Theme for Emacs.
 ;;
-;; Andre Richter, 2014-09:
-;;   * Changed colors for personal taste
-;;   * Made Emacs24 out-of-the-box compatible
+;;   Defines a colour scheme resembling that of the original TextMate Blackboard colour theme.
+;;   To use add the following to your .emacs file (requires the color-theme package):
 ;;
+;;   (require 'color-theme)
+;;   (color-theme-initialize)
+;;   (load-file "~/.emacs.d/themes/color-theme-blackboard.el")
+;;
+;;   And then (color-theme-blackboard) to activate it.
+;;
+;;   MIT License Copyright (c) 2008 JD Huntington <jdhuntington at gmail dot com>
+;;   Credits due to the excellent TextMate Blackboard theme
+;;
+;;   All patches welcome
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Code:
 (deftheme lush
   "Color theme by JD Huntington, based off the TextMate Blackboard theme, created 2008-11-27"

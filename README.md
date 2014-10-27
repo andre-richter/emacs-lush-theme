@@ -17,11 +17,17 @@ You can apply the theme via <kbd>M-x customize-themes</kbd> or make it your defa
 
 ## Screenshots
 
-### Ruby
-![Screenshot](lush_example_ruby.png)
-
 ### C
-![Screenshot](lush_example_c.png)
+![Screenshot](screenshots/c.png)
+
+### Ruby
+![Screenshot](screenshots/ruby.png)
+
+### Lisp
+![Screenshot](screenshots/lisp.png)
+
+### Python
+![Screenshot](screenshots/python.png)
 
 ## Credits
 

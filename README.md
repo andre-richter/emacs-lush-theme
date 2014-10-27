@@ -1,3 +1,5 @@
+[![MELPA](http://melpa.org/packages/lush-theme-badge.svg)](http://melpa.org/#/lush-theme)
+
 emacs-lush-theme
 ================
 

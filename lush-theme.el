@@ -60,7 +60,7 @@
    `(border-glyph                        ((t (nil))))
    `(default                             ((t (:foreground ,lush/foreground :background ,lush/background))))
    `(buffers-tab                         ((t (:foreground ,lush/foreground :background ,lush/background))))
-   `(font-lock-builtin-face              ((t (:foreground ,lush/foreground))))
+   `(font-lock-builtin-face              ((t (:foreground "Khaki"))))
    `(font-lock-comment-face              ((t (:foreground ,lush/turquoise :italic t))))
    `(font-lock-constant-face             ((t (:foreground ,lush/orange))))
    `(font-lock-doc-face                  ((t (:foreground "SlateGray"))))

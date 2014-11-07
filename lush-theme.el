@@ -49,7 +49,7 @@
        (lush/yellow     "#FFE329")
        (lush/green      "#61CE3C")
        (lush/light-blue "#82A6DF")
-       (lush/dark-blue  "#253B76")
+       (lush/dark-blue  "#284050")
        (lush/light-red  "#FA583F")
        (lush/hl-line    "#333333"))
 
@@ -79,13 +79,15 @@
    `(mode-line-highlight                 ((t (:foreground ,lush/pink :box nil))))
    `(hl-line                             ((t (:background ,lush/hl-line))))
    `(text-cursor                         ((t (:foreground "black"    :background "yellow"))))
-   `(zmacs-region                        ((t (:foreground "ble"      :background "snow"))))
    `(region                              ((t (:background ,lush/dark-blue))))
    `(highlight                           ((t (:background "#222222"))))
    `(highline-face                       ((t (:background "SeaGreen"))))
    `(italic                              ((t (nil))))
    `(left-margin                         ((t (nil))))
    `(toolbar                             ((t (nil))))
+
+   `(magit-item-highlight                ((t (:inherit region))))
+
    `(underline                           ((nil (:underline nil))))))
 
 ;;;###autoload

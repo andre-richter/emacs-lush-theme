@@ -59,6 +59,7 @@
    `(bold-italic                         ((t (:bold t))))
    `(border-glyph                        ((t (nil))))
    `(default                             ((t (:foreground ,lush/foreground :background ,lush/background))))
+   `(fringe                              ((t (:background ,lush/background))))
    `(buffers-tab                         ((t (:foreground ,lush/foreground :background ,lush/background))))
    `(font-lock-builtin-face              ((t (:foreground "Khaki"))))
    `(font-lock-comment-face              ((t (:foreground ,lush/turquoise :italic t))))

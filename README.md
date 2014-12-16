@@ -9,7 +9,7 @@ A dark theme with strong colors for Emacs24, based on [JD Huntington's blackboar
 
 1. If you use [MELPA](http://melpa.milkbox.net), just do:
 <kbd>M-x package-install [RET] lush-theme [RET]</kbd>
-2. Otherwise, put `lush-theme.el` in your Emacs load path, e.g. `~/.emacs.d/`.
+2. Otherwise, put `lush-theme.el` in your Emacs load path, e.g. `~/.emacs.d/`
 
 You can apply the theme via <kbd>M-x customize-themes</kbd> or make it your default theme by adding the following to your Emacs configuration file:
 

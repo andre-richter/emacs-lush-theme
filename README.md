@@ -33,4 +33,4 @@ You can apply the theme via <kbd>M-x customize-themes</kbd> or make it your defa
 
 ## Credits
 
-* [JD Huntington's blackboard theme](http://blog.jdhuntington.com/2008/11/emacs-color-theme-blackboard.html)
+* [JD Huntington's blackboard theme](http://jdhuntington.com/paste/color-theme-blackboard.el.html)

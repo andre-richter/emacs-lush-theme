@@ -3,7 +3,7 @@
 emacs-lush-theme
 ================
 
-A dark theme with strong colors for Emacs24, based on [JD Huntington's blackboard theme](http://jdhuntington.com/paste/color-theme-blackboard.el.html)
+A dark theme with lush colors for Emacs24, based on [JD Huntington's blackboard theme](http://jdhuntington.com/paste/color-theme-blackboard.el.html)
 
 ## Installation
 

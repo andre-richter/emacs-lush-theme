@@ -1,4 +1,4 @@
-;;; lush-theme.el --- A dark theme with strong colors
+;;; lush-theme.el --- A dark theme with lush colors
 ;;
 ;; Filename: lush-theme.el
 ;; Author: Andre Richter <andre.o.richter@gmail.com>
